@@ -6,6 +6,8 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illegalcc&layout=compact&theme=midnight-purple&count_private=true)
 
+[![wakatime](https://wakatime.com/badge/user/d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d.svg)](https://wakatime.com/@d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d)
+
 ### 𝐬𝐨𝐜𝐢𝐚𝐥
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/illegalcc)
