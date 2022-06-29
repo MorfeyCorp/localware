@@ -1,19 +1,19 @@
 ###### 𝐠𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐬
 
-![Views](https://komarev.com/ghpvc/?username=illegalcc&color=brightgreen)
+![Views](https://komarev.com/ghpvc/?username=haizakicvv&color=brightgreen)
 
-![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=illegalcc&theme=midnight-purple&count_private=true&icons=true)
+![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=haizakicvv&theme=midnight-purple&count_private=true&icons=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illegalcc&layout=compact&theme=midnight-purple&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haizakicvv&layout=compact&theme=midnight-purple&count_private=true)
 
 [![wakatime](https://wakatime.com/badge/user/d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d.svg)](https://wakatime.com/@d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d)
 
 ### 𝐬𝐨𝐜𝐢𝐚𝐥
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/illegalcc)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/illegalcc)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haizakicvv)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haizakicvv)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC30XBB6gJpV4YweGL5ZBsdg)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/nowerskiy)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/savageplugg)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/zufnn)
 
 ### 𝐨𝐬
