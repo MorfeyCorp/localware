@@ -1,20 +1,18 @@
 ###### 𝐠𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐬
 
-![Views](https://komarev.com/ghpvc/?username=haizakicvv&color=brightgreen)
+![Views](https://komarev.com/ghpvc/?username=psychopaticc&color=brightgreen)
 
-![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=haizakicvv&theme=midnight-purple&count_private=true&icons=true)
+![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=psychopaticc&theme=midnight-purple&count_private=true&icons=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haizakicvv&layout=compact&theme=midnight-purple&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psychopaticc&layout=compact&theme=midnight-purple&count_private=true)
 
 [![wakatime](https://wakatime.com/badge/user/d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d.svg)](https://wakatime.com/@d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d)
 
 ### 𝐬𝐨𝐜𝐢𝐚𝐥
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haizakicvv)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haizakicvv)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC30XBB6gJpV4YweGL5ZBsdg)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/savageplugg)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/zufnn)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/psychopaticc)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psychopaticc)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/psychopaticc)
 
 ### 𝐨𝐬
 
@@ -27,16 +25,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### 𝐰𝐨𝐫𝐤𝐬𝐩𝐚𝐜𝐞
 
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)
-
-### 𝐫𝐞𝐜𝐞𝐧𝐭𝐥𝐲 𝐩𝐥𝐚𝐲𝐢𝐧𝐠
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pn2mvks2k4de3aki7shwq6g334&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31pn2mvks2k4de3aki7shwq6g334&redirect=true)
