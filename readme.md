@@ -1,10 +1,10 @@
 ###### 𝐠𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐬
 
-![Views](https://komarev.com/ghpvc/?username=psychopaticc&color=brightgreen)
+![Views](https://komarev.com/ghpvc/?username=soblazncc&color=brightgreen)
 
-![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=psychopaticc&theme=midnight-purple&count_private=true&icons=true)
+![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=soblazncc&theme=midnight-purple&count_private=true&icons=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psychopaticc&layout=compact&theme=midnight-purple&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soblazncc&layout=compact&theme=midnight-purple&count_private=true)
 
 [![wakatime](https://wakatime.com/badge/user/d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d.svg)](https://wakatime.com/@d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d)
 
