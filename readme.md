@@ -1,17 +1,17 @@
 ###### 𝐠𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐬
 
-![Views](https://komarev.com/ghpvc/?username=soblazncc&color=brightgreen)
+![Views](https://komarev.com/ghpvc/?username=soblvzn&color=brightgreen)
 
-![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=soblazncc&theme=midnight-purple&count_private=true&icons=true)
+![Illegalcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=soblvzn&theme=midnight-purple&count_private=true&icons=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soblazncc&layout=compact&theme=midnight-purple&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soblvzn&layout=compact&theme=midnight-purple&count_private=true)
 
 [![wakatime](https://wakatime.com/badge/user/d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d.svg)](https://wakatime.com/@d6d517a6-f2e4-44c3-bb35-1f5d74fd1b9d)
 
 ### 𝐬𝐨𝐜𝐢𝐚𝐥
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soblvzn)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soblazncc)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soblvzn)
 
 ### 𝐨𝐬
 
